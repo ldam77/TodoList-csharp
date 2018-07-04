@@ -1,6 +1,9 @@
-/Users/Guest/Desktop/ToDoList.Solution/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
-/Users/Guest/Desktop/ToDoList.Solution/TodoList/bin/Debug/netcoreapp1.1/ToDoList.dll
-/Users/Guest/Desktop/ToDoList.Solution/TodoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
-/Users/Guest/Desktop/ToDoList.Solution/TodoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
-/Users/Guest/Desktop/ToDoList.Solution/TodoList/obj/Debug/netcoreapp1.1/ToDoList.dll
-/Users/Guest/Desktop/ToDoList.Solution/TodoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\bin\Debug\netcoreapp1.1\ToDoList.deps.json
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.json
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\bin\Debug\netcoreapp1.1\ToDoList.runtimeconfig.dev.json
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\bin\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\bin\Debug\netcoreapp1.1\ToDoList.pdb
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\obj\Debug\netcoreapp1.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\obj\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\Lan\Desktop\Epicodus\C#\TodoList-csharp\TodoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
