@@ -25,7 +25,7 @@ namespace ToDoList.Models
       _description = newDescription;
     }
 
-    public string GetId()
+    public int GetId()
     {
       return _id;
     }
