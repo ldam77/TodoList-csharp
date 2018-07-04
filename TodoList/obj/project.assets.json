@@ -9524,11 +9524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lan\\Desktop\\Epicodus\\C#\\TodoList-csharp\\TodoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\Lan\\Desktop\\Epicodus\\C#\\TodoList-csharp\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Lan\\Desktop\\Epicodus\\C#\\TodoList-csharp\\TodoList\\ToDoList.csproj",
+      "projectPath": "C:\\Users\\Lan\\Desktop\\Epicodus\\C#\\TodoList-csharp\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\Lan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lan\\Desktop\\Epicodus\\C#\\TodoList-csharp\\TodoList\\obj\\",
+      "outputPath": "C:\\Users\\Lan\\Desktop\\Epicodus\\C#\\TodoList-csharp\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lan\\AppData\\Roaming\\NuGet\\NuGet.Config",
