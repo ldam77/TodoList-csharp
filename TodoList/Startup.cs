@@ -35,8 +35,12 @@ namespace ToDoList
             });
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Ole~ Ole~ Ole~ ~ ~ Ole~!");
+                await context.Response.WriteAsync("Page not found!");
             });
         }
+    }
+    public static class DBConfiguration
+    {
+        public static string ConnectionString = "server=localhost;user id=root;password=root;port=3306;database=todo;";
     }
 }
